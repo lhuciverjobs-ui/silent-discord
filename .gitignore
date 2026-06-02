@@ -6,3 +6,6 @@ logs/
 pm2-installer-*
 *.traineddata
 src/coindata-cache.json
+src/afk-store.json
+src/alerts.json
+src/activity-data.json
